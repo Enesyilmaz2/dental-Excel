@@ -1,0 +1,7 @@
+{
+  "name": "Türkiye Dental Veri Rehberi",
+  "description": "Google Maps verilerini kullanarak Türkiye genelindeki diş hekimleri, hastaneleri ve kliniklerini listeleyen ve Excel formatında dışa aktarım sağlayan profesyonel araç.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
